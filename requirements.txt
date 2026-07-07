@@ -5,3 +5,6 @@ numpy
 matplotlib
 joblib
 opencv-python
+seaborn
+opencv-python-headless
+Pillow
