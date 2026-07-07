@@ -6,7 +6,7 @@ from sklearn.linear_model import LogisticRegression
 st.title("Employee Retention Prediction")
 
 # Upload dataset
-uploaded_file = st.file_uploader("PROJECT-8-RENT/logistic_regression_exercise.ipynb", type=["csv"])
+uploaded_file = st.file_uploader("Uload HR_comma_sep.csv", type=["csv"])
 
 if uploaded_file is not None:
     df = pd.read_csv(uploaded_file)
