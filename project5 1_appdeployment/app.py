@@ -20,7 +20,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🏠 G-612 Linear Regression My first Project House Price Prediction")
+st.title("🏠  Linear Regression My first Project House Price Prediction")
 st.write("Aditya Project Predict house price using Linear Regression")
 
 # -----------------------------------
