@@ -12,13 +12,13 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🏠 Project 3: Insurance Sales Prediction")
+st.title("🏠  Insurance Sales Prediction")
 st.write("Predict Insurance Sales using Logistic Regression")
 
 # -----------------------------------
 # Load Dataset
 # -----------------------------------
-df = pd.read_csv("insurance_data.csv")
+df = pd.read_csv("project6_2-app-deploy-logistic-regression/insurance_data.csv")
 
 st.subheader("Insurance Dataset")
 st.dataframe(df)
