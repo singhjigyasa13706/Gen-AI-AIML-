@@ -6,7 +6,7 @@ PROJECT 3  CANADA Click Here https://singhjigyasa13706-gen-ai-aiml--project3cana
 
 PROJECT 4 Linear Regression Click Here https://singhjigyasa13706-gen-ai-aim-project4linearregressionapp-4rietl.streamlit.app/
 
-PROJECT 5 Click Here https://c5qck67zrepn7czzejcrf2.streamlit.app/https://c5qck67zrepn7czzejcrf2.streamlit.app/
+PROJECT 5  App deployment Click Here https://singhjigyasa13706-gen-ai-aiml--project5appdeploymentapp-0ojm4e.streamlit.app/
 
 PROJECT 6 Click Here https://4xgufmmkpblq8zazfonjyg.streamlit.app/
 
