@@ -20,13 +20,13 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🏠 G-612 Linear Regression My first Project House Price Prediction")
+st.title("🏠  Linear Regression My first Project House Price Prediction")
 st.write("Aditya Project Predict house price using Linear Regression")
 
 # -----------------------------------
 # Load Dataset
 # -----------------------------------
-df = pd.read_csv("houseprice.csv")
+df = pd.read_csv("PROJECT 5 APP Deployment/houseprice.csv")
 
 st.subheader("Master Dataset")
 st.dataframe(df)
