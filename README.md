@@ -8,7 +8,7 @@ PROJECT 4 Linear Regression Click Here https://singhjigyasa13706-gen-ai-aim-proj
 
 PROJECT 5  App deployment Click Here https://singhjigyasa13706-gen-ai-aiml--project5appdeploymentapp-0ojm4e.streamlit.app/
 
-PROJECT 6 Click Here https://4xgufmmkpblq8zazfonjyg.streamlit.app/
+PROJECT 6 Insurance sales prediction Click Here https://singhjigyasa13706-ge-project6insurancesalespredictionapp-pgf6ld.streamlit.app/
 
 PROJECT 7 male-female classification Click Here https://nvztbhfxyxunvaa6atg9yc.streamlit.app/
 
