@@ -12,7 +12,7 @@ PROJECT 6 Insurance sales prediction Click Here https://singhjigyasa13706-ge-pro
 
 PROJECT 7 male-female classification Click Here https://nvztbhfxyxunvaa6atg9yc.streamlit.app/
 
-PROJECT 7 cat-dog classification Click Here https://4xgufmmkpblq8zazfonjyg.streamlit.app/
+PROJECT 7 cat-dog classification Click Here https://adpnjwpobydjkygj6ckssk.streamlit.app/
 
 PROJECT 8 clustering iris datasheet Click Here https://gokjl4tn3t6vnaewpjqusg.streamlit.app/
 
