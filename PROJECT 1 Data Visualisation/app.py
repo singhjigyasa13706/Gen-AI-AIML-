@@ -10,7 +10,7 @@ st.write("Interactive dashboard using Streamlit")
 # Load dataset
 @st.cache_data
 def load_data():
-    return pd.read_csv("googleplaystore_v2.csv")
+    return pd.read_csv("PROJECT 1 Data Visualisation/googleplaystore_v2.csv")
 
 df = load_data()
 
