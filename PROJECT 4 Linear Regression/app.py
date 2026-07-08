@@ -5,7 +5,7 @@ from sklearn.linear_model import LinearRegression
 # -------------------------------
 # Load Dataset
 # -------------------------------
-df = pd.read_csv("homeprices.csv")
+df = pd.read_csv("PROJECT 4 Linear Regression/homeprices.csv")
 
 # Train Model
 X = df[['area']]
