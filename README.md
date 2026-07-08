@@ -2,7 +2,7 @@ PROJECT 1 Data visualisation Click Here https://singhjigyasa13706-gen-ai-ai-proj
 
 PROJECT 2 OUTLINERS Click Here https://singhjigyasa13706-gen-ai-aiml--project2outlinersapp-j79l8n.streamlit.app/
 
-PROJECT 3 Logistic Regression Click Here https://singhjigyasa13706-gen-ai-a-project3logisticregressionapp-8nkiq2.streamlit.app/
+PROJECT 3 
 
 PROJECT 5 Click Here https://c5qck67zrepn7czzejcrf2.streamlit.app/https://c5qck67zrepn7czzejcrf2.streamlit.app/
 
