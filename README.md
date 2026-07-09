@@ -25,3 +25,5 @@ PROJECT 10 CNN male_female Click Here https://gen-ai--cnn.streamlit.app/
 PROJECT 11 Covid 19 detection Click Here https://singhjigyasa13706-gen-ai--project11covidapp-sz3rxx.streamlit.app/
 
 PROJECT 12 EYES CLASSIFICATIN Click Here https://eyesclassification.streamlit.app/
+
+PROJECT 13 RAG CHATBOTS Click Here https://washing-machine-1.streamlit.app/
