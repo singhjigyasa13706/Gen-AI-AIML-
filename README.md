@@ -20,4 +20,4 @@ PROJECT 9 clustering iris datasheet Click Here https://meyyrw.streamlit.app/
 
 PROJECT 9 clustering k-means Click Here https://5xrafn.streamlit.app/
 
-project 10 CNN male_female Click Here https://singhjigyasa13706-cnn-male-female-app1-ehdwzh.streamlit.app/
+PROJECT 10 CNN male_female Click Here https://gen-ai--cnn.streamlit.app/
