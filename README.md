@@ -10,7 +10,7 @@ PROJECT 5  App deployment Click Here https://singhjigyasa13706-gen-ai-aiml--proj
 
 PROJECT 6 Insurance sales prediction Click Here https://singhjigyasa13706-ge-project6insurancesalespredictionapp-pgf6ld.streamlit.app/
 
-PROJECT 7 male-female classification Click Here https://nvztbhfxyxunvaa6atg9yc.streamlit.app/
+PROJECT 7 male-female classification Click Here https://aa3j4pbrzvphhxjamap2z9.streamlit.app/
 
 PROJECT 7 cat-dog classification Click Here https://adpnjwpobydjkygj6ckssk.streamlit.app/
 
