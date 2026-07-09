@@ -14,7 +14,7 @@ PROJECT 7 male-female classification Click Here https://aa3j4pbrzvphhxjamap2z9.s
 
 PROJECT 7 cat-dog classification Click Here https://adpnjwpobydjkygj6ckssk.streamlit.app/
 
-PROJECT 8 clustering iris datasheet Click Here https://gokjl4tn3t6vnaewpjqusg.streamlit.app/
+PROJECT 8 clustering iris datasheet Click Here https://meyyrw.streamlit.app/
 
 PROJECT 9 clustering k-means Click Here https://rqwnrxi8cyz3blvqqh3uhv.streamlit.app/
 
