@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 st.title("Canada Per Capita Income Prediction")
 
 # Load dataset
-df = pd.read_csv("PROJECT-9 CANADA/canada_per_capita_income.csv")
+df = pd.read_csv("PROJECT 3 Canada/canada_per_capita_income.csv.xls")
 
 # Train model
 X = df[['year']]
