@@ -7,3 +7,4 @@ joblib
 seaborn
 opencv-python-headless
 Pillow
+opencv-python
